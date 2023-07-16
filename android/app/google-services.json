@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746531469350",
+    "project_id": "exfai-6ad01",
+    "storage_bucket": "exfai-6ad01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746531469350:android:27bf4c01741bd6517c0ee7",
+        "android_client_info": {
+          "package_name": "com.exfai.exfai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746531469350-j8qems1vk6ctsn5v4du4sb091v0tobtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exfai.exfai",
+            "certificate_hash": "0f2d16a42dd51d016dbfe6189070b65af8ef0950"
+          }
+        },
+        {
+          "client_id": "746531469350-bhev0j3vl5n2hn4e28q09ltrett4ain9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgWiDQKSr631H_HUaMAIGEthXlFNN3qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746531469350-bhev0j3vl5n2hn4e28q09ltrett4ain9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
